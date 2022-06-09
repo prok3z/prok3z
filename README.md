@@ -11,7 +11,7 @@
   <img align="center" alt="Inosuke-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Inosuke-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Inosuke-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Inosuke-Gif" src="https://img2.gratispng.com/20180418/blw/kisspng-computer-icons-ruby-programming-language-computer-ruby-5ad7544e52a215.5043757215240612623385.jpg">
+  <img align="right" alt="ruby-Gif" height="30" width="40" src="https://img2.gratispng.com/20180418/blw/kisspng-computer-icons-ruby-programming-language-computer-ruby-5ad7544e52a215.5043757215240612623385.jpg">
  
 </div>
  <br>
