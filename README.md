@@ -61,30 +61,4 @@ langs('Ruby, Python, Php, Javascript, C, C++')
       <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
-<h4 align="center">
-
-<p align="center">
-  <a href="https://github.com/prok3z">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=prok3z&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/prok3z">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prok3z&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prok3z">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=prok3z&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
 </p>
