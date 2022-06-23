@@ -51,14 +51,8 @@ langs('Ruby, Python, Php, Javascript, C, C++')
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" alt="vscode" width="40" height="40"/>
    </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
-   </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
 </p>
