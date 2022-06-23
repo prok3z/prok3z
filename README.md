@@ -1,7 +1,7 @@
 
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
-        <img src="https://i.imgur.com/EdZlPkK.gif" width="280"><br>
+        <img src="https://data.whicdn.com/images/346904000/original.gif" width="280"><br>
         Welcome to my world!
     </h3>
     <p align="center">Great success can only be achieved when we remain true to ourselves.</p>
