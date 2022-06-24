@@ -1,23 +1,3 @@
-
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://data.whicdn.com/images/346904000/original.gif" width="280"><br>
-        hi, welcome. h4h4
-    </h3>
-    <p align="center">Great success can only be achieved when we remain true to ourselves.</p>
-</a>
-
-<div align="center">
-    <a href"https://github.com/prok3z?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/prok3z?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
-    </a>
-    <a href="https://twitter.com/sorahedd">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/prok3z?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
-</div><br>
-
 ```ruby
 def main(name, area1,area2)
     puts "Hello, my name is #{name}, I'm a lover of #{area1} and #{area2}"
@@ -31,6 +11,16 @@ main('Prok3z', 'Web Hacking,', 'Pentest')
 
 langs('Ruby, Python, Php, Javascript, C, C++')
 ``` 
+<div align="center">
+    <a href"https://github.com/prok3z?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/prok3z?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/sorahedd">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/prok3z?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+    </a>
+</div><br>
 <br>
   <p align="center">
    <a href="">
