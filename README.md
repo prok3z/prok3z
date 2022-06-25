@@ -1,3 +1,11 @@
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+       Security Enthusist 
+        <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="280"><br>
+    </h3>
+    <p align="center">Human soul forged from the most rotten essence.</p>
+</a>
+
 ```ruby
 def main(name, area1,area2)
     puts "Hello, my name is #{name}, I'm a lover of #{area1} and #{area2}"
